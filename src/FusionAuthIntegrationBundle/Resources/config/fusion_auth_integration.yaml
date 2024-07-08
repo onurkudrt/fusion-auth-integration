@@ -1,0 +1,6 @@
+fusion_auth_integration:
+    api_key: apikey
+    server:
+        url: server
+        username: username
+        password: password
