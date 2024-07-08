@@ -1,5 +1,6 @@
 {
     "name": "onurlib/fusion-auth-integration-bundle",
+    "namespace": "OnurLib\\FusionAuthIntegrationBundle",
     "type": "symfony-bundle",
     "description": "Integration bundle for FusionAuth with Symfony",
     "keywords": ["symfony", "fusionauth", "bundle"],
